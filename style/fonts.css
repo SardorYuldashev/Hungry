@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Lato-Bold-700';
+    src: url('../fonts/lato/Lato-Bold-700.ttf');
+}
+
+@font-face {
+    font-family: 'Lato-Regular-400';
+    src: url('../fonts/lato/Lato-Regular-400.ttf');    
+}
+
+@font-face {
+    font-family: 'WorkSans-Bold';
+    src: url('../fonts/roboto/WorkSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'WorkSans-Medium';
+    src: url('../fonts/roboto/WorkSans-Medium.ttf');    
+}
